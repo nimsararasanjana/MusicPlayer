@@ -24,7 +24,7 @@ from core.song import Song
 from pyrogram.types import Message
 from pytgcalls.types import Update
 from pyrogram import Client, filters
-from pytgcalls.exceptions import GroupCallNotFound, NoActiveGroupCall
+from pytgcalls.exceptions import nimsararasanjana
 from pytgcalls.types.stream import StreamAudioEnded, StreamVideoEnded
 from core.decorators import language, register, only_admins, handle_error
 from core import (
